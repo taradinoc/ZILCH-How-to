@@ -95,8 +95,8 @@ I was especially interested in the source code of `Zork II` packed in
 [zork2-mac-r22.zip](https://eblong.com/infocom/sources/zork2-mac-r22.zip)
 because the archive contains the complete compiled `ZAP` files as well.
 
-[Jesse McGrew](https://www.facebook.com/public/Jesse-McGrew) created the
-open source ZIL Compiler [ZILF](https://foss.heptapod.net/zilf/zilf/) many
+[Tara McGrew](https://www.ifwiki.org/Tara_McGrew) created the
+open source ZIL Compiler [ZILF](https://zilf.io/) many
 years ago, so we don't need `ZILCH` for creating new interactive fiction
 stories. Nevertheless my motivation is to bring back to life the really lost
 masterpieces of Infocom, first of all `ZILCH`.
